@@ -1,5 +1,6 @@
 Scrabble Score
 
+
 AAU, I can see my deck of letters.
 - 7 letters.
 - I see letter and the value.
@@ -35,3 +36,9 @@ And to total:
 * = 5 + 9
 * = 14
 # deck-game
+
+
+## STEPS TO RUN THE APP
+1. Clone the repo
+2. Run `npm install`
+3. Run `npm start`
